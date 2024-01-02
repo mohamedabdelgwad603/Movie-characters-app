@@ -1,4 +1,6 @@
 📘 Overview 
+
+
 Used Flutter with BLoC pattern with clean code and Resposive to show some info about  series 🎬 Rick and Morty.
 Used some ainmation widgets
 Used flutter_offline packege to check internet connection 
